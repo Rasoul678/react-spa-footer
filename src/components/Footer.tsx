@@ -5,7 +5,9 @@ interface IProps {}
 
 const Footer: React.FC<IProps> = (props) => {
   return (
-    <section className="footer__wrapper">This is Footer (Part Three)</section>
+    <section className="footer__wrapper">
+      This is Footer (Part Three in ReactJS)
+    </section>
   );
 };
 
